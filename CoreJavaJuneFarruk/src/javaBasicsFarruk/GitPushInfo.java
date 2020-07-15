@@ -24,7 +24,10 @@ $ git add .
 
 JISHAN@LAPTOP-O7238H7R MINGW64 ~/eclipse-workspace2 (master)
 $ git commit -m "date and time"
- 
+
+JISHAN@LAPTOP-O7238H7R MINGW64 ~/eclipse-workspace2 (master)
+$ git push origin master
+
 	 * */
 	
 }

@@ -1,5 +1,4 @@
-package oop_abstraction;
-
+package oop_abstraction_old;
 
 public abstract class ElectricCar {
 	public abstract void price();
@@ -7,5 +6,4 @@ public abstract class ElectricCar {
 		System.out.println("Batter is very efficient");
 	
 	}
-
 }
