@@ -1,6 +1,8 @@
 package javaBasicsFarruk;
 
 public class GitPushInfo {
+	
+	//ALWAYS OPEN GITBASH BY GOING TO ECLISPSE-WORKSPACE2 (C:\Users\JISHAN\eclipse-workspace2)
 
 /*
 Please use the following command if you already created repository in gtihub:
